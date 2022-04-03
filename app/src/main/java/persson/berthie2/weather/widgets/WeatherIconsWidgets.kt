@@ -7,6 +7,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import persson.berthie2.weather.R
+import persson.berthie2.weather.animations.rudolf
+import persson.berthie2.weather.animations.simba
 import persson.berthie2.weather.model.WeatherItem
 
 
